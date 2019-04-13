@@ -1,0 +1,97 @@
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojAssemblyReference.cache
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.cache
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+C:\Users\Gloup\source\repos\Barzak Le Destructeur\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.dll
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.dll
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.xml
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.xml
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Migrations.InitialCreate.resources
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Migrations.AddPerso.resources
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.cache
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CopyComplete
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojAssemblyReference.cache
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.Model.BarzakContext.mdf
+D:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.Model.BarzakContext_log.ldf
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.dll
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.dll
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.xml
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.xml
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.Cache
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+F:\Barzak Le Destructeur Winform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojResolveAssemblyReference.cache
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext.mdf
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext_log.ldf
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.dll
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.dll
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.xml
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.xml
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.Cache
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext.mdf
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext_log.ldf
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.dll
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.dll
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.xml
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.xml
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.cache
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CopyComplete
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+D:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojAssemblyReference.cache
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojAssemblyReference.cache
+F:\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CopyComplete
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext.mdf
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\App_Data\BarzakLeDestructeur.App_Data.BarzakContext_log.ldf
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.dll
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.xml
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.resources
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Properties.Resources.resources
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.Form1.fr-FR.resources
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.GenerateResource.cache
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CoreCompileInputs.cache
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\fr-FR\BarzakLeDestructeur.resources.dll
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csproj.CopyComplete
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.exe
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.pdb
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe.config
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.exe
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\BarzakLeDestructeur.pdb
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\bin\Debug\fr-FR\BarzakLeDestructeur.resources.dll
+C:\Users\Gloup\source\repos\BarzakLeDestructeurWinform\BarzakLeDestructeur\obj\Debug\BarzakLeDestructeur.csprojAssemblyReference.cache

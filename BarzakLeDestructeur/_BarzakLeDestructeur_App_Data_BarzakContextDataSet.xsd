@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_BarzakLeDestructeur_App_Data_BarzakContextDataSet" targetNamespace="http://tempuri.org/_BarzakLeDestructeur_App_Data_BarzakContextDataSet.xsd" xmlns:mstns="http://tempuri.org/_BarzakLeDestructeur_App_Data_BarzakContextDataSet.xsd" xmlns="http://tempuri.org/_BarzakLeDestructeur_App_Data_BarzakContextDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BarzakLeDestructeur_App_Data_BarzakContextConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BarzakLeDestructeur.Properties.Settings.GlobalReference.Default.BarzakLeDestructeur_App_Data_BarzakContextConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BossBarzaksTableAdapter" GeneratorDataComponentClassName="BossBarzaksTableAdapter" Name="BossBarzaks" UserDataComponentName="BossBarzaksTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" DbObjectName="dbo.BossBarzaks" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MVie FROM dbo.BossBarzaks</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MVie" DataSetColumn="MVie" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="FantômeTableAdapter" GeneratorDataComponentClassName="FantômeTableAdapter" Name="Fantôme" UserDataComponentName="FantômeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" DbObjectName="dbo.Fantôme" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MVie FROM dbo.Fantôme</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MVie" DataSetColumn="MVie" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="GobelinsTableAdapter" GeneratorDataComponentClassName="GobelinsTableAdapter" Name="Gobelins" UserDataComponentName="GobelinsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" DbObjectName="dbo.Gobelins" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MVie FROM dbo.Gobelins</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MVie" DataSetColumn="MVie" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="JoueursTableAdapter" GeneratorDataComponentClassName="JoueursTableAdapter" Name="Joueurs" UserDataComponentName="JoueursTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" DbObjectName="dbo.Joueurs" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Vie, Mana FROM dbo.Joueurs</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Vie" DataSetColumn="Vie" />
+              <Mapping SourceColumn="Mana" DataSetColumn="Mana" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TrollsTableAdapter" GeneratorDataComponentClassName="TrollsTableAdapter" Name="Trolls" UserDataComponentName="TrollsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarzakLeDestructeur_App_Data_BarzakContextConnectionString (Settings)" DbObjectName="dbo.Trolls" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MVie FROM dbo.Trolls</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MVie" DataSetColumn="MVie" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_BarzakLeDestructeur_App_Data_BarzakContextDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_BarzakLeDestructeur_App_Data_BarzakContextDataSet" msprop:Generator_UserDSName="_BarzakLeDestructeur_App_Data_BarzakContextDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BossBarzaks" msprop:Generator_TableClassName="BossBarzaksDataTable" msprop:Generator_TableVarName="tableBossBarzaks" msprop:Generator_TablePropName="BossBarzaks" msprop:Generator_RowDeletingName="BossBarzaksRowDeleting" msprop:Generator_RowChangingName="BossBarzaksRowChanging" msprop:Generator_RowEvHandlerName="BossBarzaksRowChangeEventHandler" msprop:Generator_RowDeletedName="BossBarzaksRowDeleted" msprop:Generator_UserTableName="BossBarzaks" msprop:Generator_RowChangedName="BossBarzaksRowChanged" msprop:Generator_RowEvArgName="BossBarzaksRowChangeEvent" msprop:Generator_RowClassName="BossBarzaksRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MVie" msprop:Generator_ColumnVarNameInTable="columnMVie" msprop:Generator_ColumnPropNameInRow="MVie" msprop:Generator_ColumnPropNameInTable="MVieColumn" msprop:Generator_UserColumnName="MVie" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Fantôme" msprop:Generator_TableClassName="FantômeDataTable" msprop:Generator_TableVarName="tableFantôme" msprop:Generator_TablePropName="Fantôme" msprop:Generator_RowDeletingName="FantômeRowDeleting" msprop:Generator_RowChangingName="FantômeRowChanging" msprop:Generator_RowEvHandlerName="FantômeRowChangeEventHandler" msprop:Generator_RowDeletedName="FantômeRowDeleted" msprop:Generator_UserTableName="Fantôme" msprop:Generator_RowChangedName="FantômeRowChanged" msprop:Generator_RowEvArgName="FantômeRowChangeEvent" msprop:Generator_RowClassName="FantômeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MVie" msprop:Generator_ColumnVarNameInTable="columnMVie" msprop:Generator_ColumnPropNameInRow="MVie" msprop:Generator_ColumnPropNameInTable="MVieColumn" msprop:Generator_UserColumnName="MVie" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Gobelins" msprop:Generator_TableClassName="GobelinsDataTable" msprop:Generator_TableVarName="tableGobelins" msprop:Generator_TablePropName="Gobelins" msprop:Generator_RowDeletingName="GobelinsRowDeleting" msprop:Generator_RowChangingName="GobelinsRowChanging" msprop:Generator_RowEvHandlerName="GobelinsRowChangeEventHandler" msprop:Generator_RowDeletedName="GobelinsRowDeleted" msprop:Generator_UserTableName="Gobelins" msprop:Generator_RowChangedName="GobelinsRowChanged" msprop:Generator_RowEvArgName="GobelinsRowChangeEvent" msprop:Generator_RowClassName="GobelinsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MVie" msprop:Generator_ColumnVarNameInTable="columnMVie" msprop:Generator_ColumnPropNameInRow="MVie" msprop:Generator_ColumnPropNameInTable="MVieColumn" msprop:Generator_UserColumnName="MVie" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Joueurs" msprop:Generator_TableClassName="JoueursDataTable" msprop:Generator_TableVarName="tableJoueurs" msprop:Generator_TablePropName="Joueurs" msprop:Generator_RowDeletingName="JoueursRowDeleting" msprop:Generator_RowChangingName="JoueursRowChanging" msprop:Generator_RowEvHandlerName="JoueursRowChangeEventHandler" msprop:Generator_RowDeletedName="JoueursRowDeleted" msprop:Generator_UserTableName="Joueurs" msprop:Generator_RowChangedName="JoueursRowChanged" msprop:Generator_RowEvArgName="JoueursRowChangeEvent" msprop:Generator_RowClassName="JoueursRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Vie" msprop:Generator_ColumnVarNameInTable="columnVie" msprop:Generator_ColumnPropNameInRow="Vie" msprop:Generator_ColumnPropNameInTable="VieColumn" msprop:Generator_UserColumnName="Vie" type="xs:int" />
+              <xs:element name="Mana" msprop:Generator_ColumnVarNameInTable="columnMana" msprop:Generator_ColumnPropNameInRow="Mana" msprop:Generator_ColumnPropNameInTable="ManaColumn" msprop:Generator_UserColumnName="Mana" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Trolls" msprop:Generator_TableClassName="TrollsDataTable" msprop:Generator_TableVarName="tableTrolls" msprop:Generator_TablePropName="Trolls" msprop:Generator_RowDeletingName="TrollsRowDeleting" msprop:Generator_RowChangingName="TrollsRowChanging" msprop:Generator_RowEvHandlerName="TrollsRowChangeEventHandler" msprop:Generator_RowDeletedName="TrollsRowDeleted" msprop:Generator_UserTableName="Trolls" msprop:Generator_RowChangedName="TrollsRowChanged" msprop:Generator_RowEvArgName="TrollsRowChangeEvent" msprop:Generator_RowClassName="TrollsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MVie" msprop:Generator_ColumnVarNameInTable="columnMVie" msprop:Generator_ColumnPropNameInRow="MVie" msprop:Generator_ColumnPropNameInTable="MVieColumn" msprop:Generator_UserColumnName="MVie" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
