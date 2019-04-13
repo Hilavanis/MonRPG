@@ -16,6 +16,7 @@ namespace BarzakLeDestructeur.Joueur_et_Equipement
 {
     public class Joueur : INotifyPropertyChanged
     {
+        //teste du gitpull
         //Caratéristique du personnage
         [Key]
         public string Perso { get; set; }
